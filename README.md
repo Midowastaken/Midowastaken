@@ -24,7 +24,7 @@
 
 ## 🔍 Fun Fact
 
-I believe that with the right code, anything is possible—even teaching machines to make coffee ☕️😉
+I believe that with the right code, anything is possible.
 
 ---
 - Reach me at: [mohamed_m_khairy@outlook.com](mailto:mohamed_m_khairy@outlook.com)
