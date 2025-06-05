@@ -12,12 +12,7 @@
 - 🧠 Always eager to **learn, build, and solve real-world problems**
 
 ---
-
-## 📫 How to Reach Me
-
 - ✉️ Email: [mohamed_m_khairy@outlook.com](mailto:mohamed_m_khairy@outlook.com)  
-- 😄 Pronouns: **He/Him**
-
 ---
 
 ## 🛠️ Tech Interests
@@ -34,3 +29,4 @@
 I believe that with the right code, anything is possible—even teaching machines to make coffee ☕️😉
 
 ---
+- Reach me at: [mohamed_m_khairy@outlook.com](mailto:mohamed_m_khairy@outlook.com)
