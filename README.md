@@ -12,8 +12,6 @@
 - 🧠 Always eager to **learn, build, and solve real-world problems**
 
 ---
-- ✉️ Email: [mohamed_m_khairy@outlook.com](mailto:mohamed_m_khairy@outlook.com)  
----
 
 ## 🛠️ Tech Interests
 
